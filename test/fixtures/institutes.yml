@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  course: MyString
+  loc: MyString
+  time: 2013-11-18 12:10:33
+
+two:
+  course: MyString
+  loc: MyString
+  time: 2013-11-18 12:10:33
